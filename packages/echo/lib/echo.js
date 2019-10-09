@@ -1,5 +1,5 @@
 module.exports = echo;
 
 function echo() {
-  console.log('Hello World!!');
+  console.log('Hello World!');
 }
