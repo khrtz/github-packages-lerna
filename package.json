@@ -1,10 +1,17 @@
 {
   "name": "@khrtz/package-registry-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
   "license": "MIT",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "lerna": "^3.16.5"
+  },
+  "scripts": {
+    "publish": "lerna publish",
+    "publish:ci": "lerna publish -y --canary --preid ci --dist-tag=ci --force-publish=*"
   }
 }
