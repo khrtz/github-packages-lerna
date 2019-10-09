@@ -11,8 +11,11 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '10.x'
+      - name: Setup git user
+          command: |
+            git config --global user.email "r.sqrrnbn9909@gmail.com"
+            git config --global user.name "khrtz"
       - name: npm-publish
-        uses: johno/actions-yarn@master
         env:
           NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
