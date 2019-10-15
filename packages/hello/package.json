@@ -27,5 +27,6 @@
   },
   "dependencies": {
     "@khrtz/joker": "^1.0.5"
-  }
+  },
+  "gitHead": "26138782ef9b8501e3f15964b54646beb5425042"
 }
