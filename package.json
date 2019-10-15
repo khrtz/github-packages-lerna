@@ -1,5 +1,5 @@
 {
-  "name": "@khrtz/package-registry-npm",
+  "name": "root",
   "version": "1.0.4",
   "main": "index.js",
   "private": true,
@@ -9,7 +9,6 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
-    "@lerna/publish": "^3.16.5",
     "lerna": "^3.16.5"
   },
   "workspaces": [
@@ -18,8 +17,5 @@
   "scripts": {
     "publish": "lerna publish --no-verify-access",
     "publish:ci": "lerna publish --no-verify-access -y --canary --preid ci --dist-tag=ci --force-publish=*"
-  },
-  "resolutions": {
-    "@lerna/publish": "3.4.1"
   }
 }
