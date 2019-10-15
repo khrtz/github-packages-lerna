@@ -12,7 +12,7 @@
     "lerna": "^3.16.5"
   },
   "workspaces": [
-    "packages/*"
+    "packages/**"
   ],
   "scripts": {
     "publish": "lerna publish --no-verify-access",
