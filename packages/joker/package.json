@@ -6,7 +6,6 @@
   "homepage": "https://github.com/khrtz/package-registry-npm#readme",
   "license": "ISC",
   "main": "lib/joker.js",
-  "private": true,
   "directories": {
     "lib": "lib"
   },
