@@ -4,5 +4,5 @@ module.exports = hello;
 
 function hello() {
     // TODO
-    console.log('he');
+    console.log('hel');
 }
