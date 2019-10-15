@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/khrtz/package-registry-npm/issues"
+  },
+  "dependencies": {
+    "undefined": "/Users/a14504/mywork/package-registry-npm"
   }
 }

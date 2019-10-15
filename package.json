@@ -8,9 +8,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "devDependencies": {
-    "lerna": "^3.16.5"
-  },
   "workspaces": [
     "packages/**"
   ],

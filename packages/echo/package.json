@@ -13,5 +13,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/khrtz/package-registry-npm.git"
+  },
+  "dependencies": {
+    "@khrtz/joker": "^1.0.1",
+    "undefined": "/Users/a14504/mywork/package-registry-npm"
   }
 }
