@@ -1,5 +1,7 @@
+import { joker } from '@khrtz/joker';
+
 module.exports = echo;
 
 function echo() {
-  console.log('Hello World!!');
+  joker();
 }

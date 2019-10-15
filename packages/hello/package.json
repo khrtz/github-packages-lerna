@@ -24,5 +24,8 @@
   },
   "bugs": {
     "url": "https://github.com/khrtz/package-registry-npm/issues"
+  },
+  "dependencies": {
+    "@khrtz/joker": "^1.0.3"
   }
 }

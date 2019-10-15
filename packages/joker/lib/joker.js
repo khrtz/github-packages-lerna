@@ -1,7 +1,3 @@
-'use strict';
-
-module.exports = joker;
-
-function joker() {
-  console.log('joke')
+export function joker() {
+  console.log('joker')
 }
