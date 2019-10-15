@@ -2,6 +2,7 @@
   "name": "@khrtz/package-registry-npm",
   "version": "1.0.4",
   "main": "index.js",
+  "private": true,
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
   "license": "MIT",
   "publishConfig": {
