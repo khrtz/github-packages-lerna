@@ -9,7 +9,6 @@
   "directories": {
     "lib": "lib"
   },
-  "private": true,
   "files": [
     "lib"
   ],
