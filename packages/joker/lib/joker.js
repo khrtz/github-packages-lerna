@@ -3,5 +3,5 @@
 module.exports = joker;
 
 function joker() {
-    // TODO
+  console.log('j')
 }
