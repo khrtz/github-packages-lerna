@@ -15,7 +15,10 @@
     "packages/*"
   ],
   "scripts": {
-    "publish": "lerna publish",
-    "publish:ci": "lerna publish -y --canary --preid ci --dist-tag=ci --force-publish=*"
+    "publish": "lerna publish --no-verify-access",
+    "publish:ci": "lerna publish --no-verify-access --registry -y --canary --preid ci --dist-tag=ci --force-publish=*"
+  },
+  "resolutions": {
+    "@lerna/publish": "3.4.1"
   }
 }
