@@ -1,20 +1,16 @@
 {
   "name": "@khrtz/echo",
-  "version": "0.0.1",
+  "version": "null-ci.26+90739fb",
   "description": "> TODO: description",
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
   "homepage": "https://github.com/khrtz/package-registry-npm#readme",
+  "private": true,
   "license": "MIT",
-  "main": "lib/echo.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "files": [
-    "lib"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/khrtz/package-registry-npm.git"
-  },
-  "gitHead": "4b4b39b79d322959074588e08d5e300511b60fad"
+  }
 }
