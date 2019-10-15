@@ -18,6 +18,8 @@ jobs:
         run: echo "//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}" > ${HOME}/.npmrc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: yarn install
+        run: yarn install
       - name: publish
         if: contains(github.ref, 'master')
         run: npm run publish:ci
