@@ -21,8 +21,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: yarn install
         run: yarn install
-      - name: login
-        run: npm login --registry=https://npm.pkg.github.com/
       - name: publish
         if: contains(github.ref, 'master')
         run: npm run publish:ci
