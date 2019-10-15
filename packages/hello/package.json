@@ -1,6 +1,6 @@
 {
   "name": "@khrtz/hello",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "> TODO: descriptio",
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
   "homepage": "https://github.com/khrtz/package-registry-npm#readme",
@@ -26,7 +26,7 @@
     "url": "https://github.com/khrtz/package-registry-npm/issues"
   },
   "dependencies": {
-    "@khrtz/joker": "^1.0.6"
+    "@khrtz/joker": "^1.0.7"
   },
   "gitHead": "c0148c55bde6f89eed05ac774b4f5b082fb0999e"
 }
