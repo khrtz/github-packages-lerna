@@ -3,5 +3,5 @@
 module.exports = joker;
 
 function joker() {
-  console.log('jo')
+  console.log('jok')
 }
