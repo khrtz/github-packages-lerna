@@ -1,6 +1,6 @@
 {
   "name": "@khrtz/echo",
-  "version": "null-ci.24+a036711",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
   "homepage": "https://github.com/khrtz/package-registry-npm#readme",
@@ -16,5 +16,5 @@
     "type": "git",
     "url": "git+https://github.com/khrtz/package-registry-npm.git"
   },
-  "gitHead": "a036711fd508b69872c714760d4117b1bd2666b8"
+  "gitHead": "4b4b39b79d322959074588e08d5e300511b60fad"
 }
