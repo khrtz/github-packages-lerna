@@ -5,6 +5,7 @@
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
   "homepage": "https://github.com/khrtz/package-registry-npm#readme",
   "license": "ISC",
+  "private": true,
   "main": "lib/world.js",
   "directories": {
     "lib": "lib",
