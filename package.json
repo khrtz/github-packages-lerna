@@ -12,8 +12,8 @@
     "packages/**"
   ],
   "scripts": {
-    "publish": "lerna publish --no-verify-access",
-    "publish:ci": "lerna publish --no-verify-access -y --canary --preid ci --dist-tag=ci --force-publish=*"
+    "publish": "lerna publish",
+    "publish:ci": "lerna publish -y --canary --preid ci --dist-tag=ci --force-publish=*"
   },
   "dependencies": {
     "@khrtz/joker": "1.0.9"

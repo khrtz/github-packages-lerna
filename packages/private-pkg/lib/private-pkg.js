@@ -3,5 +3,5 @@
 module.exports = privatePkg;
 
 function privatePkg() {
-    // TODO
+    // TOD
 }
