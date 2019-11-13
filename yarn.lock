@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+"@khrtz/joker@1.0.9":
+  version "1.0.9"
+  resolved "https://npm.pkg.github.com/download/@khrtz/joker/1.0.9/6a50f884a0f01a88ff962a8b536d704001b6eecfe70b86e08c23464515670de7#8e86af04a09a42f2da2657af43ad55f553fb1461"
+  integrity sha512-/xyiJzP2M1nqB+zF3RVyZSDo2V2a1VKc6Ax4HHTe+lLGOreBAUbrZwUtY5DmBoSjFuZMrClOJ6a/ZoQYEtDn1w==
