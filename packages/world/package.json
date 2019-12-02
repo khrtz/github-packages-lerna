@@ -1,5 +1,5 @@
 {
-  "name": "@khrtz-zz/world",
+  "name": "@khrtz/world",
   "version": "1.0.10",
   "description": "> TODO: description",
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
@@ -29,5 +29,5 @@
   "dependencies": {
     "@khrtz/private-pkg": "^1.0.4"
   },
-  "gitHead": "ff88263712a989fa702d2561e10c5e560a8f88ea"
+  "gitHead": "559bdf6530176b6daa8052b35cebecddd09d5036"
 }
