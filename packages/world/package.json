@@ -26,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/khrtz/package-registry-npm/issues"
   },
-  "dependencies": {
-    "@khrtz/private-pkg": "^1.0.6"
-  },
   "gitHead": "559bdf6530176b6daa8052b35cebecddd09d5036"
 }
