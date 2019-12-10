@@ -1,6 +1,6 @@
 {
   "name": "@khrtz/world",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "> TODO: description",
   "author": "khrtz <r.sqrrnbn9909@gmail.com>",
   "homepage": "https://github.com/khrtz/package-registry-npm#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/khrtz/package-registry-npm/issues"
   },
   "dependencies": {
-    "@khrtz/private-pkg": "^1.0.4"
+    "@khrtz/private-pkg": "^1.0.6"
   },
   "gitHead": "559bdf6530176b6daa8052b35cebecddd09d5036"
 }
