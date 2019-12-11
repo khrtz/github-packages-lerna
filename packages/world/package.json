@@ -15,8 +15,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/khrtz/package-registry-npm.git"
+    "url": "https://github.com/khrtz/package-registry-npm"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"

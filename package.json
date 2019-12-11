@@ -8,6 +8,9 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
+  "repository": {
+    "url": "https://github.com/khrtz/package-registry-npm"
+  },
   "workspaces": [
     "packages/**"
   ],
