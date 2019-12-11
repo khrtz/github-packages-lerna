@@ -1,5 +1,0 @@
----
-"@khrtz/world": minor
----
-
-test
