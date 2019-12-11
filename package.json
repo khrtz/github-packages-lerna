@@ -13,5 +13,8 @@
   ],
   "scripts": {
     "publish-ci": "lerna publish from-package -y --no-verify-access"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.4.1"
   }
 }
