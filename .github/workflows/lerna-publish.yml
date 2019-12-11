@@ -28,7 +28,7 @@ jobs:
         uses: changesets/action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  publish-gpr:
+  publish-github-packages:
     needs: build
     runs-on: ubuntu-latest
     steps:
