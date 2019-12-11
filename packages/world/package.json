@@ -14,9 +14,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": {
-    "url": "https://github.com/khrtz/package-registry-npm"
-  },
+  "repository": "https://github.com/khrtz/package-registry-npm",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
