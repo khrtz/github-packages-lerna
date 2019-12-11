@@ -3,5 +3,5 @@
 module.exports = world;
 
 function world() {
-    console.log('hello1')
+    console.log('hello')
 }
