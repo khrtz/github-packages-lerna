@@ -28,7 +28,14 @@ jobs:
         uses: changesets/action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  publish-github-packages:
+  publish-gp:
+    name: Publish GitHub Packages
+    on:
+      push:
+        branches:
+          - master
+        tags:
+          - "!*"
     needs: build
     runs-on: ubuntu-latest
     steps:
