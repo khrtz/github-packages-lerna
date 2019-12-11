@@ -1,3 +1,0 @@
----
-"@khrtz/world": major
----
