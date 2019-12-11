@@ -1,5 +1,11 @@
 # @khrtz/world
 
+## 2.1.2
+
+### Patch Changes
+
+- 22a4d74: aaa
+
 ## 2.1.1
 
 ### Patch Changes
