@@ -1,5 +1,11 @@
 # @khrtz/world
 
+## 2.1.1
+
+### Patch Changes
+
+- 0a02a68: fix text
+
 ## 2.1.0
 
 ### Minor Changes
