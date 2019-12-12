@@ -1,5 +1,11 @@
 # @khrtz/world
 
+## 2.1.3
+
+### Patch Changes
+
+- 67ffd0a: 文言変更
+
 ## 2.1.2
 
 ### Patch Changes
