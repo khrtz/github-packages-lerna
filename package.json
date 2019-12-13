@@ -9,7 +9,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "repository": {
-    "url": "https://github.com/khrtz/package-registry-npm"
+    "url": "https://github.com/khrtz/github-packages-lerna"
   },
   "workspaces": [
     "packages/**"
