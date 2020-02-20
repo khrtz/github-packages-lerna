@@ -1,0 +1,32 @@
+{
+  "name": "@khrtz/onaka-suita",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "khrtz <r.sqrrnbn9909@gmail.com>",
+  "homepage": "https://github.com/khrtz/package-registry-npm#readme",
+  "license": "ISC",
+  "main": "lib/onaka-suita.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "https://github.com/khrtz/github-packages-lerna",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/khrtz/package-registry-npm/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}
