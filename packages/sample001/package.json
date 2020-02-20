@@ -1,0 +1,29 @@
+{
+  "name": "@khrtz/sample001",
+  "version": "0.0.1",
+  "description": "dummy",
+  "author": "satoshi0212 <hattori_satoshi@abema.tv>",
+  "homepage": "https://github.com/satoshi0212/github-packages-lerna#readme",
+  "license": "ISC",
+  "main": "lib/sample001.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": "https://github.com/khrtz/package-registry-npm",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/satoshi0212/github-packages-lerna/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
