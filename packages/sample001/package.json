@@ -1,6 +1,6 @@
 {
   "name": "@khrtz/sample001",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "dummy",
   "author": "satoshi0212 <hattori_satoshi@abema.tv>",
   "homepage": "https://github.com/satoshi0212/github-packages-lerna#readme",
@@ -10,9 +10,7 @@
     "lib": "lib",
     "test": "__tests__"
   },
-  "files": [
-    "lib"
-  ],
+  "files": ["lib"],
   "repository": "https://github.com/khrtz/package-registry-npm",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

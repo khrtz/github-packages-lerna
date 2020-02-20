@@ -1,6 +1,6 @@
 {
   "name": "@khrtz/arkit",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "arkit",
   "keywords": [
     "arkit"
@@ -13,9 +13,7 @@
     "lib": "lib",
     "test": "__tests__"
   },
-  "files": [
-    "lib"
-  ],
+  "files": ["lib"],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
