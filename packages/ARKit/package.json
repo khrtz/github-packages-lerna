@@ -1,0 +1,32 @@
+{
+  "name": "@khrtz/arkit",
+  "version": "0.0.1",
+  "description": "arkit",
+  "keywords": [
+    "arkit"
+  ],
+  "author": "cokaholic <nietzsche.god.is.dead@gmail.com>",
+  "homepage": "https://github.com/cokaholic/github-packages-lerna#readme",
+  "license": "ISC",
+  "main": "lib/ARKit.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": "https://github.com/khrtz/package-registry-npm",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/cokaholic/github-packages-lerna/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
